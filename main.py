@@ -25,7 +25,7 @@ def GetLandMarksFromVideo(videoPath,target_lms):
     cap = cv2.VideoCapture(videoPath)
 
     landmarks = []
-    with mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5) as pose:
+    with mp_pose.Pose(min_detection_confidence=0.7, min_tracking_confidence=0.7) as pose:
         while cap.isOpened():
 
             ret, frame = cap.read()
@@ -89,7 +89,8 @@ actions = ["high_knees" ,"inside_inside","inside_outside",
            "left_foot_juggle","left_foot_pass","sole_rolls"]
 
 
-target_joints = [24,25,26,27,28,29,30,31,32,12,11,14,13]
+# target_joints = [24,25,26,27,28,29,30,31,32,12,11,14,13]
+target_joints = range(1,33)
 print (target_joints)
 
 
