@@ -73,22 +73,26 @@
       <screen x="0" y="0" width="600" height="960" />
     </state>
     <state x="33" y="95" key="#main/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664191532073" />
-    <state width="600" height="263" key="GridCell.Tab.0.bottom" timestamp="1664196977187">
+    <state width="600" height="263" key="GridCell.Tab.0.bottom" timestamp="1664275234227">
       <screen x="0" y="0" width="600" height="960" />
     </state>
-    <state width="600" height="263" key="GridCell.Tab.0.bottom/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664196977187" />
-    <state width="600" height="263" key="GridCell.Tab.0.center" timestamp="1664196977187">
+    <state width="600" height="263" key="GridCell.Tab.0.bottom/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664275234227" />
+    <state width="600" height="263" key="GridCell.Tab.0.center" timestamp="1664275234227">
       <screen x="0" y="0" width="600" height="960" />
     </state>
-    <state width="600" height="263" key="GridCell.Tab.0.center/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664196977187" />
-    <state width="600" height="263" key="GridCell.Tab.0.left" timestamp="1664196977187">
+    <state width="600" height="263" key="GridCell.Tab.0.center/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664275234227" />
+    <state width="600" height="263" key="GridCell.Tab.0.left" timestamp="1664275234227">
       <screen x="0" y="0" width="600" height="960" />
     </state>
-    <state width="600" height="263" key="GridCell.Tab.0.left/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664196977187" />
-    <state width="600" height="263" key="GridCell.Tab.0.right" timestamp="1664196977187">
+    <state width="600" height="263" key="GridCell.Tab.0.left/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664275234227" />
+    <state width="600" height="263" key="GridCell.Tab.0.right" timestamp="1664275234227">
       <screen x="0" y="0" width="600" height="960" />
     </state>
-    <state width="600" height="263" key="GridCell.Tab.0.right/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664196977187" />
+    <state width="600" height="263" key="GridCell.Tab.0.right/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664275234227" />
+    <state x="0" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1664476198447">
+      <screen x="0" y="0" width="600" height="960" />
+    </state>
+    <state x="0" y="200" key="com.intellij.ide.util.TipDialog/900.5.1280.720/0.0.600.960@0.0.600.960" timestamp="1664476198447" />
     <state x="0" y="205" width="672" height="678" key="search.everywhere.popup" timestamp="1664193739227">
       <screen x="0" y="0" width="600" height="960" />
     </state>

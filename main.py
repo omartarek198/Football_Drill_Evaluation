@@ -86,7 +86,7 @@ def CreateTemplateFromVideo(videoPath, label,target_lms):
 
 actions = ["high_knees" ,"inside_inside","inside_outside",
            "jumping_jacks","lateral_left","lateral_right",
-           "left_foot_juggle","left_foot_pass","sole_rolls"]
+           "left_foot_juggle","left_foot_pass","two_feet_juggle"]
 
 
 # target_joints = [24,25,26,27,28,29,30,31,32,12,11,14,13]
@@ -115,7 +115,7 @@ for action in actions:
 
 
 
-print ("testing for high knees")
+print ("testing for two feet juggle")
 
 
 
@@ -128,21 +128,35 @@ recognizer = Recognizer(templates)
 #
 
 
+#
+# print (recognizer.recognize
+#        (GetLandMarksFromVideo(os.path.join(tests_directory,"two_feet_juggle","5.mp4"),target_joints)))
+#
+#
+#
+#
+#
+#
+
+#
+#
+# print (recognizer.recognize
+#        (GetLandMarksFromVideo(os.path.join(tests_directory,actions[3],"2.mp4"),target_joints)))
+#
+#
+
+
+
+# print (recognizer.recognize
+#        (GetLandMarksFromVideo(os.path.join(tests_directory,actions[0],"2.mp4"),target_joints)))
+#
+#
+#
+#
+
+
 print (recognizer.recognize
-       (GetLandMarksFromVideo(os.path.join(tests_directory,actions[0],"1.mp4"),target_joints)))
-
-
-
-
-
-
-
-
-
-
-
-
-
+       (GetLandMarksFromVideo(os.path.join(tests_directory,actions[-1],"7.mp4"),target_joints)))
 
 
 
